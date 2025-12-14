@@ -33,12 +33,12 @@
  🧑‍💼 **Task Management System (Spring Boot REST API)**  
   CRUD APIs with MySQL + Hibernate/JPA and clean layered architecture.
 
-👉 Check my **pinned repositories** below ⬇️
 
 
-</div>
 ## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/faizbytes
 - 📧 Email: faizannahmed5098k@gmail.com
 
 ⭐ *Always learning and improving backend systems.*
+
+</div>
