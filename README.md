@@ -15,7 +15,7 @@
 - 💳 Built real-world backend projects like **Stripe Payment Integration**
 - 🎯 Actively seeking **Java Backend / Spring Boot** roles (Fresher – 0–1 year)
 
-</div>
+
 
 ## 🛠️ Tech Stack
 **Backend:** Java, Spring Boot, REST APIs, Microservices, Hibernate, JPA, JDBC  
@@ -36,7 +36,7 @@
 👉 Check my **pinned repositories** below ⬇️
 
 
-
+</div>
 ## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/faizbytes
 - 📧 Email: faizannahmed5098k@gmail.com
