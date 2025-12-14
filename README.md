@@ -1,5 +1,6 @@
 **Faiz100-coder/Faiz100-coder**
 
+<div align="center">
 # 👋 Hi, I'm Faizan Ahmed
 
 🚀 **Java Backend Developer** | Spring Boot | REST APIs | Microservices  
@@ -14,7 +15,7 @@
 - 💳 Built real-world backend projects like **Stripe Payment Integration**
 - 🎯 Actively seeking **Java Backend / Spring Boot** roles (Fresher – 0–1 year)
 
-
+</div>
 
 ## 🛠️ Tech Stack
 **Backend:** Java, Spring Boot, REST APIs, Microservices, Hibernate, JPA, JDBC  
