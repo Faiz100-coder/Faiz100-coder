@@ -5,7 +5,7 @@
 🚀 **Java Backend Developer** | Spring Boot | REST APIs | Microservices  
 🛠️ Building **scalable, secure, production-ready backend systems**
 
----
+
 
 ## 👨‍💻 About Me
 - ☕ Java Backend Developer with hands-on experience in **Spring Boot**
@@ -14,7 +14,7 @@
 - 💳 Built real-world backend projects like **Stripe Payment Integration**
 - 🎯 Actively seeking **Java Backend / Spring Boot** roles (Fresher – 0–1 year)
 
----
+
 
 ## 🛠️ Tech Stack
 **Backend:** Java, Spring Boot, REST APIs, Microservices, Hibernate, JPA, JDBC  
@@ -23,18 +23,18 @@
 **Cloud:** AWS (Basics)  
 **Frontend (support):** HTML, CSS, JavaScript, React
 
----
+
 
 ## 🚀 Projects
 - 💳 **Stripe Payment Integration (Spring Boot)**  
   Secure payment processing using Stripe REST APIs, webhooks, MySQL, and proper exception handling.
 
-- 🧑‍💼 **Employee Management System (Spring Boot REST API)**  
+- 🧑‍💼 **Task Management System (Spring Boot REST API)**  
   CRUD APIs with MySQL + Hibernate/JPA and clean layered architecture.
 
 👉 Check my **pinned repositories** below ⬇️
 
----
+
 
 ## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/faizbytes
