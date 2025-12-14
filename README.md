@@ -9,11 +9,11 @@
 
 
 ## 👨‍💻 About Me
-- ☕ Java Backend Developer with hands-on experience in **Spring Boot**
-- 🔗 Strong in **REST API design**, clean architecture, and backend best practices
-- 🗄️ Experienced with **MySQL, Hibernate/JPA, JDBC**
-- 💳 Built real-world backend projects like **Stripe Payment Integration**
-- 🎯 Actively seeking **Java Backend / Spring Boot** roles (Fresher – 0–1 year)
+ ☕ Java Backend Developer with hands-on experience in **Spring Boot**
+ 🔗 Strong in **REST API design**, clean architecture, and backend best practices
+ 🗄️ Experienced with **MySQL, Hibernate/JPA, JDBC**
+ 💳 Built real-world backend projects like **Stripe Payment Integration**
+ 🎯 Actively seeking **Java Backend / Spring Boot** roles (Fresher – 0–1 year)
 
 
 
@@ -27,10 +27,10 @@
 
 
 ## 🚀 Projects
-- 💳 **Stripe Payment Integration (Spring Boot)**  
+ 💳 **Stripe Payment Integration (Spring Boot)**  
   Secure payment processing using Stripe REST APIs, webhooks, MySQL, and proper exception handling.
 
-- 🧑‍💼 **Task Management System (Spring Boot REST API)**  
+ 🧑‍💼 **Task Management System (Spring Boot REST API)**  
   CRUD APIs with MySQL + Hibernate/JPA and clean layered architecture.
 
 👉 Check my **pinned repositories** below ⬇️
