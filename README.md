@@ -31,12 +31,12 @@
   Secure payment processing using Stripe REST APIs, webhooks, MySQL, and proper exception handling.
 
 🎯 **Turf Booking Microservices Backend System**
- 🔗Tech Stack: Java, Spring Boot, Microservices, MySQL, JWT, Spring Security, Cloudinary
- 🔗Built multi-vendor turf booking platform with Spring Boot Microservices.
- 🔗Developed 35+ secure REST APIs covering auth, vendor management, turf listing, slot booking & image upload.
- 🔗Implemented JWT authentication & RBAC via Spring Security
- 🔗Integrated Cloudinary for image upload & storage and applied global exception handling and structured error.
- 🔗Completed 3 Services: Auth, Vendor & Booking service with MySQL schema design.
+ -🔗Tech Stack: Java, Spring Boot, Microservices, MySQL, JWT, Spring Security, Cloudinary
+ -🔗Built multi-vendor turf booking platform with Spring Boot Microservices.
+ -🔗Developed 35+ secure REST APIs covering auth, vendor management, turf listing, slot booking & image upload.
+ -🔗Implemented JWT authentication & RBAC via Spring Security
+ -🔗Integrated Cloudinary for image upload & storage and applied global exception handling and structured error.
+ -🔗Completed 3 Services: Auth, Vendor & Booking service with MySQL schema design.
 
  🧑‍💼 **Task Management System (Spring Boot REST API)**  
   CRUD APIs with MySQL + Hibernate/JPA and clean layered architecture.
