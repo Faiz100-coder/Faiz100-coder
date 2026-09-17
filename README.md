@@ -13,7 +13,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -23,7 +23,7 @@
 * 💳 Built real-world systems including **Stripe Payment Gateways** and **Microservices architectures**.
 * 🎯 Actively seeking **Java Backend / Spring Boot** roles (Fresher / 0–1 year experience).
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@
 | **Cloud & Storage** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) Cloudinary |
 | **Frontend (Support)** | HTML5, CSS3, JavaScript, React |
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -48,7 +48,7 @@
   * Implemented robust **JWT Authentication & RBAC** (Role-Based Access Control) using Spring Security.
   * Integrated **Cloudinary** for seamless image upload/storage and implemented global exception handling with structured error responses.
 
-### 💳 Stripe Payment Integration (Spring Boot)
+### 💳 Stripe Payment Integration (Spring Boot)(https://github.com/Faiz100-coder/Spring-Boot-Stripe-Payment-Integration)
 *Secure payment processing application handling monetary transactions cleanly.*
 * **Tech Stack:** Java, Spring Boot, Stripe REST APIs, Webhooks, MySQL, Exception Handling
 * **Key Highlights:**
@@ -63,10 +63,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faiz100-coder&show_icons=true&theme=radical&hide_border=true" alt="Faizan's GitHub Stats" />
-</p>
 
 <div align="center">
 
