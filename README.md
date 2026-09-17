@@ -62,8 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 ⭐ *Always learning, building, and improving backend systems.*
