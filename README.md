@@ -48,7 +48,7 @@
   * Implemented robust **JWT Authentication & RBAC** (Role-Based Access Control) using Spring Security.
   * Integrated **Cloudinary** for seamless image upload/storage and implemented global exception handling with structured error responses.
 
-### 💳 Stripe Payment Integration (Spring Boot)(https://github.com/Faiz100-coder/Spring-Boot-Stripe-Payment-Integration)
+### 💳 [Stripe Payment Integration (Spring Boot)](https://github.com/Faiz100-coder/Spring-Boot-Stripe-Payment-Integration)
 *Secure payment processing application handling monetary transactions cleanly.*
 * **Tech Stack:** Java, Spring Boot, Stripe REST APIs, Webhooks, MySQL, Exception Handling
 * **Key Highlights:**
